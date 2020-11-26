@@ -1,5 +1,5 @@
 baseurl = "https://gfmedstudent.netlify.app"
-languageCode = "en-us"
+languageCode = "pl"
 paginate = 6
 summaryLength = "10"
 theme = "parsa-hugo"
