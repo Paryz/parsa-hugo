@@ -11,7 +11,7 @@ VERSION:	Versoin Number
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700|Playfair+Display:400,700");
 @font-face {
   font-family: 'hanskendrick';
-  src: url("../fonts/hanskendrick-regular-webfont.woff") format("woff");
+  src: url("../fonts/Dustismo_Roman.ttf") format("ttf");
   font-style: normal;
   font-display: swap;
 }
