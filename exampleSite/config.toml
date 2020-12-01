@@ -6,17 +6,12 @@ theme = "parsa-hugo"
 title = "@gfmedstudent Blog"
 [[menu.main]]
 hasChildren = true
-name = "Homepage"
-url = ""
+name = "Strona główna"
 weight = 1
 [[menu.main]]
-name = "About"
+name = "O mnie"
 url = "about"
 weight = 2
-[[menu.main]]
-name = "Contact"
-url = "contact"
-weight = 3
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
