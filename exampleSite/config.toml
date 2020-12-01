@@ -5,6 +5,9 @@ summaryLength = "10"
 theme = "parsa-hugo"
 title = "@gfmedstudent Blog"
 [[menu.main]]
+name = "Kontakt"
+weight = 3
+[[menu.main]]
 hasChildren = true
 name = "Strona główna"
 weight = 1
