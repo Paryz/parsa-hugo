@@ -5,16 +5,18 @@ summaryLength = "10"
 theme = "parsa-hugo"
 title = "@gfmedstudent Blog"
 [[menu.main]]
-name = "Kontakt"
-weight = 3
-[[menu.main]]
 hasChildren = true
-name = "Strona główna"
+name = "Homepage"
+url = ""
 weight = 1
 [[menu.main]]
-name = "O mnie"
+name = "About"
 url = "about"
 weight = 2
+[[menu.main]]
+name = "Contact"
+url = "contact"
+weight = 3
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
@@ -37,7 +39,7 @@ search = true
 enable = true
 expire_days = 2
 [params.instafeed]
-access_token = "IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1NmpxZA3RTbnU1MXpDNVBHTzZAMOFlxcGlkVHBKdjhqSnUybERhNWdQSE5hVmtXT013MEhOQVJJRGJBRURn"
+access_token = "IGQVJYQU1YY0lHZADFraWJ1dFdxb05BMWdXcFRvNDhfcnFOQ0U1ZAnhDaVlZAX2JMN1l5bkdhSlk4dGVxOHkzck1WTlNlSEYwd3NYbm9iTWQtbDlqVWpxWHAwMVV4TWQ3bzJsTzJLYnFmd1ZA5WjdWb09VTAZDZD"
 enable = true
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
