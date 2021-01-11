@@ -11,7 +11,9 @@ type = "post"
 +++
 ![](/images/c0e5ed3b-24b2-4235-b672-3651566ef5ad.jpg)
 
-"Zalety GUMedu" - taki post napisalam na Instagramie dokładnie 9 czerwca 2019 roku i od tamtego czasu tak naprawdę niewiele się zmieniło. Każdy przyszły student chce dowiedzieć się jak najwięcej na temat uczelni, na której planuje spędzić najbliższych 6 lat, co jest w pełni zrozumiałe. Licealiści często kierują się opiniami "starszaków", ale pamiętajcie, że są one mimo wszystko nieobiektywne. Zupełnie inaczej będzie wypowiadał się student, który nie zdał trzech egzaminów pod rząd, musiał odrabiać zaległe seminaria lub miał nieprzyjemne kontakty z asystentami. Ja zawsze podkreślam, że nan GUMed patrzę przez róźowe okulary, bo bardzo lubię moją uczelnię, spotkało mnie tu dużo dobrego, mogłam rozwijać swoje pomysły i zawsze spotykały się one z dużym wsparciem ze strony lekarzy czy pracowników. Niemniej jednak postaram się przedstawić jak najwięcej wad i zalet, które pomogą Wam - przyszłym studentom kierunku lekarskeig - poznać warunki studiowania na naszej uczelni jak najlepiej!
+**"Zalety GUMedu"** - taki post napisalam na Instagramie dokładnie 9 czerwca 2019 roku i od tamtego czasu tak naprawdę niewiele się zmieniło. 
+
+Każdy przyszły student chce dowiedzieć się jak najwięcej na temat uczelni, na której planuje spędzić najbliższych 6 lat, co jest w pełni zrozumiałe. Licealiści często kierują się opiniami "starszaków", ale pamiętajcie, że są one mimo wszystko subiektywne. Zupełnie inaczej będzie wypowiadał się student, który nie zdał trzech egzaminów pod rząd, musiał odrabiać zaległe seminaria lub miał nieprzyjemne kontakty z asystentami. Ja zawsze podkreślam, że na GUMed patrzę przez różowe okulary, bo lubię moją uczelnię, spotkało mnie tu dużo dobrego, mogłam rozwijać swoje pomysły i zawsze otrzymywałam duże wsparcie od strony lekarzy czy pracowników. Niemniej jednak postaram się przedstawić jak najwięcej wad i zalet, które pomogą Wam - przyszłym studentom kierunku lekarskiego - poznać warunki studiowania na naszej uczelni jak najlepiej! W tym poście skupię się na **zaletach**.
 
 **Nowoczesne szpitale**
 
