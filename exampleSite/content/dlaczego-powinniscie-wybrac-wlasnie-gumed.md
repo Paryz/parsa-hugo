@@ -2,7 +2,7 @@
 categories = ["UCZELNIA"]
 date = 2021-01-10T23:00:00Z
 description = ""
-image = "/images/c0e5ed3b-24b2-4235-b672-3651566ef5ad.jpg"
+image = "/images/mniejszy.jpg"
 tags = ["uczelnia", "gumed", "lekarski"]
 title = "Dlaczego warto wybrać GUMed?"
 type = "post"
