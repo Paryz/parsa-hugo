@@ -4,10 +4,12 @@ date = 2021-01-10T23:00:00Z
 description = ""
 image = "/images/c0e5ed3b-24b2-4235-b672-3651566ef5ad.jpg"
 tags = ["uczelnia", "gumed", "lekarski"]
-title = "Zastanawiacie się dlaczego warto wybrać właśnie GUMed na studiowanie kierunku lekarskiego? "
+title = "Dlaczego warto wybrać GUMed?"
 type = "post"
 
 +++
+Zastanawiacie się czy warto studiować kierunek lekarski na Gdańskim Uniwersytecie Medycznym?
+
 **"Zalety GUMedu"** - taki post napisalam na Instagramie dokładnie 9 czerwca 2019 roku i od tamtego czasu tak naprawdę niewiele się zmieniło.
 
 Każdy przyszły student chce dowiedzieć się jak najwięcej na temat uczelni, na której planuje spędzić najbliższych 6 lat, co jest w pełni zrozumiałe. Licealiści często kierują się opiniami "starszaków", ale pamiętajcie, że są one mimo wszystko subiektywne. Zupełnie inaczej będzie wypowiadał się student, który nie zdał trzech egzaminów pod rząd, musiał odrabiać zaległe seminaria lub miał nieprzyjemne kontakty z asystentami. Ja zawsze podkreślam, że na GUMed patrzę przez różowe okulary, bo lubię moją uczelnię, spotkało mnie tu dużo dobrego, mogłam rozwijać swoje pomysły i zawsze otrzymywałam duże wsparcie od strony lekarzy czy pracowników. Niemniej jednak postaram się przedstawić jak najwięcej wad i zalet, które pomogą Wam - przyszłym studentom kierunku lekarskiego - poznać warunki studiowania na naszej uczelni jak najlepiej! W tym poście skupię się na **zaletach**.
