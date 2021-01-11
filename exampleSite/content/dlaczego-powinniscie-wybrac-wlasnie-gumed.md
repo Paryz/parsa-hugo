@@ -1,6 +1,6 @@
 +++
 categories = ["UCZELNIA"]
-date = 2021-02-28T23:00:00Z
+date = 2021-01-10T23:00:00Z
 description = "Zastanawiacie się dlaczego warto wybrać właśnie GUMed na studiowanie kierunku lekarskiego?  "
 image = "/images/c0e5ed3b-24b2-4235-b672-3651566ef5ad.jpg"
 tags = ["uczelnia", "gumed", "lekarski"]
