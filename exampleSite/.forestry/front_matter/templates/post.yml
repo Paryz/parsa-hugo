@@ -27,5 +27,6 @@ fields:
   default: post
   description: 'type: post or featured'
 pages:
+- exampleSite/content/dlaczego-powinniscie-wybrac-wlasnie-gumed.md
 - exampleSite/content/przykladowy.md
 - exampleSite/content/test-post.md
