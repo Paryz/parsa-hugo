@@ -28,7 +28,7 @@ Ponadto szpitale, w których odbywamy zajęcia kliniczne są zlokalizowane gło
 
 Pierwsze lata spędzamy głównie w budynku Collegium Biomedicum przemykając między siedmioma piętrami żółtego gmachu. Nie musimy nigdzie jeździć! Docenią to studenci pierwszego roku, dla których ważna jest każda minuta na powtórki przed wejściówkami lub szybką przekąskę przed kolejnymi zajęciami. No i zmniejszamy prawdopodobieństwo spóźnień na zajęcia z powodu zakorkowanej komunikacji miejskiej.
 
-![](/images/fullsizerender.jpg)
+![](/images/okno.jpg)
 
 **Biblioteka**
 
