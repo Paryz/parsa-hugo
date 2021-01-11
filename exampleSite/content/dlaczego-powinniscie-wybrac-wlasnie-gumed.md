@@ -15,9 +15,13 @@ type = "post"
 
 **Nowoczesne szpitale**
 
-Mamy nowoczesny kompleks szpitalny, który wygląda niczym z „Grey’s anatomy”. Nie wszystkie, ale z roku na rok kolejne oddziały przenoszą się do nowopowstałych budynków. Pierwszy raz kiedy weszłam na teren Centrum Medycyny Inwazyjnej nie do końca wiedziałam, gdzie jestem - obiekt wyglądał bardziej jak galeria handlowa, a nie szpital! Sklepiki, stołówki, dobrze wyposażone sale seminaryjne, pomieszczenia klimatyzowane, z w miarę współpracującymi rzutnikami. Ponadto szpitale, w których odbywamy zajęcia kliniczne są zlokalizowane głównie w jednym miejscu. Uniwersyteckie Centrum Kliniczne mieści się w centrum Gdańska. To właśnie tu mamy jakieś 70% zajęć. Jest pare bloków, ktore realizujemy w Gdyni w "Centrum Medycyny Morskiej i Tropikalnej" (i 40-minutowy dojazd SKM-ką nikomu nie jest na rękę - za to na pewno cieszą się studenci, którzy w samej Gdyni mieszkają) lub w Szpitalu Copernicus na Nowych Ogrodach (plusem jest niedaleka odległość od ul. Długiej, więc po pediatrii czy ortopedii zawsze można skoczyć na kawę w urokliwe miejsce).
+Mamy nowoczesny kompleks szpitalny, który wygląda niczym z „Grey’s anatomy”. Nie wszystkie, ale z roku na rok kolejne oddziały przenoszą się do nowopowstałych budynków. Pierwszy raz kiedy weszłam na teren Centrum Medycyny Inwazyjnej nie do końca wiedziałam, gdzie jestem - obiekt wyglądał bardziej jak galeria handlowa, a nie szpital! Są klepiki, stołówki, pomieszczenia klimatyzowane, dobrze wyposażone sale seminaryjne z w miarę współpracującymi rzutnikami. 
 
 ![](/images/fullsizerender_1.jpg)
+
+Ponadto szpitale, w których odbywamy zajęcia kliniczne są zlokalizowane głównie w jednym miejscu. Uniwersyteckie Centrum Kliniczne mieści się w centrum Gdańska. To właśnie tu mamy jakieś 70% zajęć. Jest pare bloków, ktore realizujemy w Gdyni w "Centrum Medycyny Morskiej i Tropikalnej" (i 40-minutowy dojazd SKM-ką nikomu nie jest na rękę - za to na pewno cieszą się studenci, którzy w samej Gdyni mieszkają) lub w Szpitalu Copernicus na Nowych Ogrodach (plusem jest niedaleka odległość od ul. Długiej, więc po pediatrii czy ortopedii zawsze można skoczyć na kawę w urokliwe miejsce).
+
+![](/images/img_7466.jpg)
 
 **Zajęcia w jednym miejscu**
 
