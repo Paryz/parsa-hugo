@@ -9,11 +9,21 @@ title = "Dlaczego powinniście wybrać właśnie GUMed?  "
 type = "post"
 
 +++
+![](/images/c0e5ed3b-24b2-4235-b672-3651566ef5ad.jpg)
+
 "Zalety GUMedu" - taki post napisalam na Instagramie dokładnie 9 czerwca 2019 roku i od tamtego czasu tak naprawdę niewiele się zmieniło. Każdy przyszły student chce dowiedzieć się jak najwięcej na temat uczelni, na której planuje spędzić najbliższych 6 lat, co jest w pełni zrozumiałe. Licealiści często kierują się opiniami "starszaków", ale pamiętajcie, że są one mimo wszystko nieobiektywne. Zupełnie inaczej będzie wypowiadał się student, który nie zdał trzech egzaminów pod rząd, musiał odrabiać zaległe seminaria lub miał nieprzyjemne kontakty z asystentami. Ja zawsze podkreślam, że nan GUMed patrzę przez róźowe okulary, bo bardzo lubię moją uczelnię, spotkało mnie tu dużo dobrego, mogłam rozwijać swoje pomysły i zawsze spotykały się one z dużym wsparciem ze strony lekarzy czy pracowników. Niemniej jednak postaram się przedstawić jak najwięcej wad i zalet, które pomogą Wam - przyszłym studentom kierunku lekarskeig - poznać warunki studiowania na naszej uczelni jak najlepiej!
 
 **Nowoczesne szpitale**
 
-Mamy nowoczesny kompleks szpitalny, który wygląda niczym z „Grey’s anatomy”. Nie wszystkie, ale z roku na rok kolejne oddziały przenoszą się do nowopowstałych budynków. Pierwszy raz kiedy weszłam na teren Centrum Medycyny Inwazyjnej nie do końca wiedziałam, gdzie jestem - obiekt wyglądał bardziej jak galeria handlowa, a nie szpital! Sklepiki, stołówki, dobrze wyposażone sale seminaryjne, pomieszczenia klimatyzowane, z w miarę współpracującymi rzutnikami. Ponadto szpitale, w których odbywamy zajęcia kliniczne są zlokalizowane głównie w jednym miejscu. Uniwersyteckie Centrum Kliniczne mieści się w centrum Gdańska. To właśnie tu mamy jakieś 70% zajęć. Jest pare bloków, ktore realizujemy w Gdyni w "Centrum Medycyny Morskiej i Tropikalnej" (i 40-minutowy dojazd SKM-ką nikomu nie jest na rękę - za to na pewno cieszą się studenci, którzy w samej Gdyni mieszkają) lub w Szpitalu Copernicus na Nowych Ogrodach (plusem jest niedaleka odległość od ul. Długiej, więc po pediatrii czy ortopedii zawsze można skoczyć na kawę w urokliwe miejsce). 
+Mamy nowoczesny kompleks szpitalny, który wygląda niczym z „Grey’s anatomy”. Nie wszystkie, ale z roku na rok kolejne oddziały przenoszą się do nowopowstałych budynków. Pierwszy raz kiedy weszłam na teren Centrum Medycyny Inwazyjnej nie do końca wiedziałam, gdzie jestem - obiekt wyglądał bardziej jak galeria handlowa, a nie szpital! Sklepiki, stołówki, dobrze wyposażone sale seminaryjne, pomieszczenia klimatyzowane, z w miarę współpracującymi rzutnikami. Ponadto szpitale, w których odbywamy zajęcia kliniczne są zlokalizowane głównie w jednym miejscu. Uniwersyteckie Centrum Kliniczne mieści się w centrum Gdańska. To właśnie tu mamy jakieś 70% zajęć. Jest pare bloków, ktore realizujemy w Gdyni w "Centrum Medycyny Morskiej i Tropikalnej" (i 40-minutowy dojazd SKM-ką nikomu nie jest na rękę - za to na pewno cieszą się studenci, którzy w samej Gdyni mieszkają) lub w Szpitalu Copernicus na Nowych Ogrodach (plusem jest niedaleka odległość od ul. Długiej, więc po pediatrii czy ortopedii zawsze można skoczyć na kawę w urokliwe miejsce).
+
+![](/images/fullsizerender_1.jpg)
+
+**Zajęcia w jednym miejscu**
+
+Pierwsze lata spędzamy głównie w budynku Collegium Biomedicum przemykając między siedmioma piętrami żółtego gmachu. Nie musimy nigdzie jeździć! Docenią to studenci pierwszego roku, dla których ważna jest każda minuta na powtórki przed wejściówkami lub szybką przekąskę przed kolejnymi zajęciami. No i zmniejszamy prawdopodobieństwo spóźnień na zajęcia z powodu zakorkowanej komunikacji miejskiej.
+
+![](/images/fullsizerender.jpg)
 
 **Biblioteka**
 
@@ -27,7 +37,7 @@ Miasto samo w sobie zachęca do przyjechania tu nas studia. I wcale nie dziwi mn
 
 Tutaj na pewno warto wymienić **platformę EXTRANET**, bo założę się, że nie na każdej uczelni znajdziecie takie luksusy. Jest to platforma na której umieszczane są wszelkie informacje dotyczące zajęć, realizowanych przedmiotów, są tu załączane prezentacje z seminariów, skrypty, a także linki do zajęć online. Ponadto znajdziemy tam garść informacji dotyczących stypendiów czy Erasmusa. Jednym słowem EXTRANET to nasza wielka uczelniana tablica informacyjna. Tam jest dosłownie wszystko, co umożliwi Wam przetrwanie na studiach (no może poza giełdami). Oczywiście jest też wyszukiwarka, dzięki której w łatwy sposób znajdziecie maila do każdego studenta i pracownika.
 
-Dużym plusem jest to, że dostajemy **plan na cały rok** łącznie z terminami zaliczeń już w październiku. I chociaż czasami ulega to drobnym zmianom, to znajomość "ważnych" dat ułatwia planowanie nauki, jak i wyjazdów, wolnego czy konferencji. I uwierzcie mi, że nie na każdej uczelni jest to w ten sposób rozwiązane.  
+Dużym plusem jest to, że dostajemy **plan na cały rok** łącznie z terminami zaliczeń już w październiku. I chociaż czasami ulega to drobnym zmianom, to znajomość "ważnych" dat ułatwia planowanie nauki, jak i wyjazdów, wolnego czy konferencji. I uwierzcie mi, że nie na każdej uczelni jest to w ten sposób rozwiązane.
 
 **Dobry kontakt**
 
@@ -40,6 +50,8 @@ Jako Wiceprezydent ds. Marketingu Oddziału Gdańsk czy Koordynator Lokalny akcj
 GUMed uznany jest za najlepsza uczelnię medyczną w 2020 roku wg [„Perspektyw”](https://ranking.perspektywy.pl/2020/ranking/ranking-uczelni-akademickich/types/uczelnie-medyczne), a sam kierunek lekarski jest na 2 miejscu (w 2019 roku był na miejscu 5.)
 
 Ponadto jako jedyna uczelnia medyczna w Polsce GUMed ma status **uczelni badawczej**. Nasza uczelnia bardzo się rozwija, mamy prężnie działające koła naukowe (SKN Kardiologii, SKN Chirurgii Ogólnej, SKN Dermatologii, The ED Pediatric Oncology Scientific Circle, The ED Dermatology Scientific Circle i wiele innych!), Studenckie Towarzystwo Naukowe, studenci organizują konferencje (ISSC International Student Scientific Conference in Gdansk, Oncological Student Scientific Conference OSSC, Shameless Gdansk, Studencka Konferencja Medycyny Paliatywnej). Dokładam swoją cegiełkę do rozwoju naukowego organizując dla Was spotkania naukowe, podczas których macie możliwość posłuchać aktywnych lekarzy, naukowców i skorzystać z ich wiedzy i doświadczenia.
+
+![](/images/img_8293.jpg)
 
 Jeśli przeczytaliście całą notatkę to chciałabym bardzo podziękować za poświęcony czas. Mam także nadzieję, że post był pomocny. Nie zapomnijcie, żeby dla równowagi przeczytać także "Wady GUMedu".
 
