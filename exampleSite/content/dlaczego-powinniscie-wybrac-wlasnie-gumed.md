@@ -8,7 +8,7 @@ title = "Dlaczego warto wybrać GUMed?"
 type = "post"
 
 +++
-|​=Zastanawiacie się czy warto studiować kierunek lekarski na Gdańskim Uniwersytecie Medycznym?=|
+Zastanawiacie się czy warto studiować kierunek lekarski na Gdańskim Uniwersytecie Medycznym? Poznajcie zalety mojej uczelni!
 
 **"Zalety GUMedu"** - taki post napisalam na Instagramie dokładnie 9 czerwca 2019 roku i od tamtego czasu tak naprawdę niewiele się zmieniło.
 
